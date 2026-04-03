@@ -58,31 +58,29 @@ To run any of the solutions locally:
    ```bash
    git clone [https://github.com/kalashjaiswal29/DSA-Journey---JAVA.git](https://github.com/kalashjaiswal29/DSA-Journey---JAVA.git)
 
-   <hr>
+<hr>
 
 <h2 align="center">👤 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kalash-jaiswal-15bb6b323/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:kalashjaiswal57@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://github.com/kalashjaiswal29/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
-</a>
+  <a href="https://www.linkedin.com/in/kalash-jaiswal-15bb6b323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kalashjaiswal29/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:kalashjaiswal57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <p align="center">
-<b>Kalash Jaiswal | B.Tech Computer Science Student</b>
-
-
-Focused on mastering Algorithms and building efficient software solutions.
+  <b>Kalash Jaiswal | B.Tech Computer Science Student</b><br>
+  Focused on mastering Algorithms and building efficient software solutions.
 </p>
 
 <div align="center">
-<sub>Built with ❤️ and Java.</sub>
+  <sub>Built with ❤️ and Java.</sub>
 </div>
