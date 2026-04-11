@@ -46,7 +46,8 @@ Deep dive into contiguous memory allocation and optimization.
 ## 📈 Current Roadmap
 - [x] Java Basics & Iterations
 - [x] 1D Array Fundamentals & Interview Problems
-- [ ] **Time & Space Complexity** (Ongoing ⏳)
+- [X] Time & Space Complexity
+- [ ] **Sorting** (Ongoing ⏳)
 - [ ] **2D Arrays & Matrix Traversal** (Next 🔜)
 - [ ] **Strings & Hashing**
 
