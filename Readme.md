@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Actively_Learning-brightgreen.svg)]()
-[![B.Tech](https://img.shields.io/badge/Year-3rd_Year-blue.svg)]()
+[![B.Tech](https://img.shields.io/badge/Year-2nd_Year-blue.svg)]()
 
 This repository is a systematic log of my Data Structures and Algorithms progress. It tracks my transition from foundational Java syntax to solving complex problems with optimized time and space complexity.
 
@@ -12,44 +12,53 @@ This repository is a systematic log of my Data Structures and Algorithms progres
 
 The code is organized into logical modules to ensure clean navigation and modular learning.
 
-### 🔵 1. Foundations (`Basics/`)
-Focuses on core Java syntax and logical building blocks.
-- **Functions/**: Method overloading, return types, and parameter passing.
-- **IF_Else/**: Conditional flows and decision-making logic.
-- **Loops/**: Iterative logic and complex pattern printing questions.
+### 🔵 1. Foundations & Logic (`Basics/`)
+- **Control Flow**: Conditional logic, Loops, and complex pattern printing.
+- **Functions**: Parameter passing, scope, and method overloading.
+- **Time & Space Complexity**: Mathematical analysis of algorithms using Big-O notation.
 
 ### 🟠 2. Linear Data Structures (`Arrays/`)
-Deep dive into contiguous memory allocation and optimization.
-- **Basics/**: `ArrayList` implementation, `forEach` loops, and input/output handling.
-- **Questions/**: 
-  - **Optimized Searching**: Finding Missing Elements, Second Largest.
-  - **Two Pointers**: Sum of Two, Reverse Array, Segregating Zeros/Ones.
-  - **Advanced**: Kadane’s Algorithm, Trapping Rain Water, Wave Array.
+- **Basics**: Implementation of `ArrayList`, input/output handling, and memory management.
+- **Questions**: 
+  - **Searching**: Linear Search, Finding Missing/Duplicate elements.
+  - **Two Pointers**: Reverse Array, Segregating parity, Three-Sum logic.
+  - **Optimization**: Kadane’s Algorithm (Subarray Sum), Trapping Rain Water.
 
-### 🟣 3. Dynamic Progress (Upcoming)
-- **Time & Space Complexity**: Transitioning from brute-force to $O(n)$ and $O(\log n)$.
-- **2D Arrays**: Matrix traversal and operations.
-- **Strings**: Manipulation, Hashing, and Pattern Matching.
+### 🟡 3. Sorting Algorithms (`Sorting/`)
+*Mastering the mechanics of data arrangement.*
+- **Selection Sort**: $O(n^2)$ complexity, finding the minimum element.
+- **Bubble Sort**: Adjacent swaps and optimization for nearly sorted data.
+- **Insertion Sort**: Online algorithm logic, efficient for small datasets.
+
+### 🟣 4. The Roadmap (Upcoming)
+- **Binary Search**: $O(\log n)$ efficiency on sorted data.
+- **Strings**: Manipulation, Hashing, and Two-pointer string logic.
+- **2D Arrays**: Matrix traversal (Spiral, Rotate, Transpose).
+- **Recursion & Backtracking**: Transitioning to functional thinking.
+- **Divide & Conquer**: Merge Sort, Quick Sort, and Cyclic Sort.
+- **OOPS**: Transitioning from procedural to Object-Oriented DSA.
 
 ---
 
-## 🛠️ Technical Highlights
+## 🛠️ Technical Highlights (Recruiter View)
 
 | Category | Key Concepts Covered |
 | :--- | :--- |
-| **Logic Building** | Dry-running code, Flowcharting, Pattern Analysis |
-| **Optimization** | Sliding Window, Two Pointers, Prefix Sum |
-| **Clean Code** | Modular methods, meaningful variable naming, `.gitignore` usage |
+| **Optimization** | Reduced time complexity from $O(n^2)$ to $O(n)$ using Two-Pointers/Prefix Sum. |
+| **Analysis** | Consistent Big-O analysis documented for every solution. |
+| **Clean Code** | Modular methods, `.gitignore` implementation, and meaningful naming conventions. |
 
 ---
 
 ## 📈 Current Roadmap
 - [x] Java Basics & Iterations
 - [x] 1D Array Fundamentals & Interview Problems
-- [X] Time & Space Complexity
-- [ ] **Sorting** (Ongoing ⏳)
-- [ ] **2D Arrays & Matrix Traversal** (Next 🔜)
-- [ ] **Strings & Hashing**
+- [x] Time & Space Complexity Analysis
+- [x] Basic Sorting (Bubble, Selection, Insertion)
+- [ ] **Binary Search** (Next 🔜)
+- [ ] **Strings & 2D Arrays**
+- [ ] **Recursion & Merge Sort**
+- [ ] **Cyclic Sort & OOPS Patterns**
 
 ---
 
@@ -59,29 +68,27 @@ To run any of the solutions locally:
    ```bash
    git clone [https://github.com/kalashjaiswal29/DSA-Journey---JAVA.git](https://github.com/kalashjaiswal29/DSA-Journey---JAVA.git)
 
-<hr>
+2. Navigate to the desired directory and compile the .java file.
 
 <h2 align="center">👤 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalash-jaiswal-15bb6b323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kalashjaiswal29/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:kalashjaiswal57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="https://www.linkedin.com/in/kalash-jaiswal-15bb6b323/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/kalashjaiswal29/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:kalashjaiswal57@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
-
 <p align="center">
   <b>Kalash Jaiswal | B.Tech Computer Science Student</b><br>
   Focused on mastering Algorithms and building efficient software solutions.
 </p>
-
 <div align="center">
-  <sub>Built with ❤️ and Java.</sub>
+<sub>Built with ❤️ and Java.</sub>
 </div>

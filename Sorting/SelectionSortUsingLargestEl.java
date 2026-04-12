@@ -1,4 +1,5 @@
-public class SelectionSort {
+public class SelectionSortUsingLargestEl {
+
   public static void print(int arr[]) {
     for (int el : arr) {
       System.out.print(el + " ");
@@ -10,17 +11,17 @@ public class SelectionSort {
     int n = arr.length;
 
     for (int j = 0; j < n - 1; j++) {
-      int min = arr[j],  indexMin = j;
-      for (int i = j; i < n; i++) {
+      int max = arr[0],  indexMax = 0;
+      for (int i = 0; i < n-j; i++) {
 
-        if (min > arr[i]) {
-          min = arr[i];
-          indexMin = i;
+        if (max < arr[i]) {
+          max = arr[i];
+          indexMax = i;
         }
       }
-      int temp = arr[j];
-      arr[j] = arr[indexMin];
-      arr[indexMin] = temp;
+      int temp = arr[n-j-1];
+      arr[n-j-1] = arr[indexMax];
+      arr[indexMax] = temp;
 
     }
     print(arr);
