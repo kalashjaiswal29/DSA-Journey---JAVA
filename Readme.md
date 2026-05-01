@@ -55,8 +55,8 @@ The code is organized into logical modules to ensure clean navigation and modula
 - [x] 1D Array Fundamentals & Interview Problems
 - [x] Time & Space Complexity Analysis
 - [x] Basic Sorting (Bubble, Selection, Insertion)
-- [ ] **Binary Search** (Next 🔜)
-- [ ] **Strings & 2D Arrays**
+- [x] Binary Search
+- [ ] **Strings & 2D Arrays** (Next 🔜)
 - [ ] **Recursion & Merge Sort**
 - [ ] **Cyclic Sort & OOPS Patterns**
 
