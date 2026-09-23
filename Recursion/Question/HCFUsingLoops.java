@@ -1,3 +1,4 @@
+package Recursion.Question ;
 import java.util.Scanner;
 
 public class HCFUsingLoops {
